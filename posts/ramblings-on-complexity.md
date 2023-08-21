@@ -4,4 +4,11 @@ date: 2023-08-21
 draft: true
 ---
 
-Complexity is bad.
+Complexity is a double edged sword.
+
+- Complexity is needed. Witout complexity there can be no value.
+- Define complexity.
+  - The cost of change.
+- Shifting complexity around.
+- Complexity budget. Reference htmx essay.
+- How to shift complexity into a global minimum?
