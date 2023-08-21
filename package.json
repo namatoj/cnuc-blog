@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0"
+  },
+  "name": "cnuc-blog",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "dependencies": {
+    "any-promise": "^0.1.0",
+    "debug": "^4.3.4",
+    "dom-serializer": "^1.4.1",
+    "domelementtype": "^2.3.0",
+    "domhandler": "^4.3.1",
+    "domutils": "^2.8.0",
+    "entities": "^3.0.1",
+    "htmlparser2": "^7.2.0",
+    "http-equiv-refresh": "^1.0.0",
+    "is-json": "^2.0.1",
+    "list-to-array": "^1.1.0",
+    "ms": "^2.1.2",
+    "parse-srcset": "^1.0.2",
+    "posthtml": "^0.16.6",
+    "posthtml-parser": "^0.11.0",
+    "posthtml-render": "^3.0.0",
+    "posthtml-urls": "^1.0.0",
+    "promise-each": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
