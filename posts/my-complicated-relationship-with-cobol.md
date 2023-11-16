@@ -8,6 +8,10 @@ I really wanted to like COBOL.
 
 When listening to people on podcasts talking about COBOL they seem to really like it because how good it is on what it does good, and it is supposed to be easy to learn.
 
+Lets start from the beginning
+
+#
+
 - The historical interest
 - Myths about COBOL
   - You can make good money
